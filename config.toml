@@ -1,5 +1,9 @@
 baseURL = "https://gunner-jocelyn-46005.netlify.com/"
 languageCode = "en-us"
 title = "Hugo"
+SectionPagesMenu = "main"
 
 theme="ananke"
+[params]
+featured_image="images/Baes.jpg"
+twitter="https://twitter.com/t4ostra"
